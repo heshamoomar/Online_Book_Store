@@ -1,0 +1,4 @@
+https://login.noon.com/egypt-en/reset
+https://www.w3schools.com/howto/howto_js_toggle_password.asp
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+https://developer.mozilla.org/en-US/docs/Web/CSS/backdrop-filter
